@@ -1,0 +1,3 @@
+tempat tinggal :
+kost : sunter;
+rumah asli : tangerang;
