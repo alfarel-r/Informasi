@@ -1,4 +1,5 @@
-Pendidikan :
-Sd : Dewi Kunti 
-Smp : Ponpes Latansa
-Smk : Telematika indramayu
+riwayat pendidikan : 
+sd : dewi kunti
+smp : ponpes latansa
+smk : Telematika Indramayu
+kuliah : universitas mercubuana
